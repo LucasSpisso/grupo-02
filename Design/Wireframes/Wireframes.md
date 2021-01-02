@@ -19,3 +19,5 @@
 *   [Formulario de login](https://wireframe.cc/fQBktx)
 
 ![Formulario de login](https://github.com/1120CDFSNCN29ARED/grupo-02/Design/Wireframes/FormularioDeLogin.png)
+
+*   [Resultados de Busqueda](https://wireframe.cc/MPrUFB)
