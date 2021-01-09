@@ -11,14 +11,15 @@ SITENAME también cuenta con una sección de repuestos para que así puedas enco
 
 Para el desarrollo de este nuevo e-commerce, se cuenta con un equipo de tres maravillosos desarrolladores.
 
-* Santiago Maldini - Ingeniero en Informática, associate del sector de Finanzas y Controles de JP Morgan, especializado en la automatización de procesos.
-* Simon Huxter - CPN de la UNT, formación en finanzas y actualmente como co-fundador de un start-up que se dedica a desarrollar soluciones para la industria autmotriz.
-* Lucas Spisso - 
+- Santiago Maldini - Ingeniero en Informática, associate del sector de Finanzas y Controles de JP Morgan, especializado en la automatización de procesos.
+- Simon Huxter - CPN de la UNT, formación en finanzas y actualmente como co-fundador de un start-up que se dedica a desarrollar soluciones para la industria autmotriz.
+- Lucas Spisso -
 
 ## Sitios de inspiración
 
-* [Mercado Libre](https://www.mercadolibre.com.ar) - Mayor e-commerce de América Latina, cuenta con una gran variedad de categorías de todo tipo incluyendo vehículos y repuestos
-* [Amazon](https://www.amazon.com) - Mayor e-commerce a nivel global.
-* [DEAutos](https://www.deautos.com) - Uno de los clásicos sitios donde buscar autos en línea. Sitio de referencia especializado en venta de vehículos.
-* [Semi Nuevos](https://www.seminuevos.com) - Para observar marketplace internacional para ver si hay ideas no presentes en el mercado local.
-* [Car Sales](https://www.carsales.com.au) - Car Sales pertenece a uno de los mayores grupos a nivel mundial en cuanto a marketplace de autos/vehiculos y tambien es para tener otros ideas.
+- [Mercado Libre](https://www.mercadolibre.com.ar) - Mayor e-commerce de América Latina, cuenta con una gran variedad de categorías de todo tipo incluyendo vehículos y repuestos
+- [Amazon](https://www.amazon.com) - Mayor e-commerce a nivel global.
+- [DEAutos](https://www.deautos.com) - Uno de los clásicos sitios donde buscar autos en línea. Sitio de referencia especializado en venta de vehículos.
+- [Semi Nuevos](https://www.seminuevos.com) - Para observar marketplace internacional para ver si hay ideas no presentes en el mercado local.
+- [Car Sales](https://www.carsales.com.au) - Car Sales pertenece a uno de los mayores grupos a nivel mundial en cuanto a marketplace de autos/vehiculos y tambien es para tener otros ideas.
+- [Kavak](https://www.kavak.com/ar) - Para ver el flujo de compra/venta/cotización online y como realiza la integración con mercadolibre/Mercado Pago.
