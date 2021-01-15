@@ -5,6 +5,13 @@
 ### Sitio
 
 Real Cars es un e-commerce destinado a la venta de vehículos. Se enfoca en brindar una experiencia agradable y fluida para poder encontrar **tu vehículo ideal, al mejor precio**.
+En el sitio podrás encontrar vehículos de los siguientes tipos:
+
+- Autos
+- Camionetas
+- Camiones
+- Motos
+
 Real Cars también cuenta con una sección de repuestos para que así puedas encontrar todo lo relacionado a tu nuevo y/o actual vehículo en un mismo lugar.
 
 ### Equipo
@@ -14,6 +21,8 @@ Para el desarrollo de este nuevo e-commerce, se cuenta con un equipo de tres mar
 - Santiago Maldini - Ingeniero en Informática, associate del sector de Finanzas y Controles de JP Morgan, especializado en la automatización de procesos.
 - Simon Huxter - CPN de la UNT, formación en finanzas y actualmente como co-fundador de un start-up que se dedica a desarrollar soluciones para la industria autmotriz.
 - Lucas Spisso - Estudiante de economia en UDA - Manager de emprendimiento gastronomico en Valle de Uco Mendoza.
+
+### Tipografía
 
 ## Sitios de inspiración
 

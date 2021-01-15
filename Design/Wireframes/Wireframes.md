@@ -1,25 +1,21 @@
 # Wireframes
 
-*   [Home](https://wireframe.cc/bjzMOw)
+Se han diseñado los wireframes para las distintas secciones principales tanto en desktop como en mobile.
 
-![Home](https://raw.githubusercontent.com/1120CDFSNCN29ARED/grupo-02/main/Design/Wireframes/Home.png)
+*   Home
+*   Home con desplegable (mobile)
+*   Detalle de producto - vehículos
+*   Detalle de producto - repuestos
+*   Carrito de compras
+*   Formulario de registro
+*   Formulario de login
+*   Resultados de Busqueda
+*   Añadir producto - vehículo
+*   Añadir producto - repuesto
 
-*   [Detalle de producto](https://wireframe.cc/8n4sUC)
 
-![Detalle de producto](https://raw.githubusercontent.com/1120CDFSNCN29ARED/grupo-02/main/Design/Wireframes/DetalleDeProducto.png)
+Se suben al repositiorio pdfs con las vistas de cada uno y se deja un live figma para poder visualizarlos de una manera más intuitiva.
 
-*   [Carrito de compras](https://wireframe.cc/39Er4f)
+[Mobile](https://www.figma.com/proto/mNu9iufnpOvVOlnUqav58C/REAL-CARS?node-id=116%3A1072&scaling=min-zoom)
 
-![Carrito de compras](https://raw.githubusercontent.com/1120CDFSNCN29ARED/grupo-02/main/Design/Wireframes/CarritoDeCompras.png)
-
-*   [Formulario de registro](https://wireframe.cc/4cBw8I)
-
-![Formulario de registro](https://raw.githubusercontent.com/1120CDFSNCN29ARED/grupo-02/main/Design/Wireframes/FormularioDeRegistro.png)
-
-*   [Formulario de login](https://wireframe.cc/fQBktx)
-
-![Formulario de login](https://raw.githubusercontent.com/1120CDFSNCN29ARED/grupo-02/main/Design/Wireframes/FormularioDeLogin.png)
-
-*   [Resultados de Busqueda](https://wireframe.cc/MPrUFB)
-
-![Formulario de login](https://raw.githubusercontent.com/1120CDFSNCN29ARED/grupo-02/main/Design/Wireframes/SearchResults.png)
+[Desktop](https://www.figma.com/proto/mNu9iufnpOvVOlnUqav58C/REAL-CARS?node-id=115%3A1189&scaling=min-zoom)
