@@ -1,11 +1,11 @@
-# grupo-02 - "SITENAME (TBD)"
+# grupo-02 - "Real Cars"
 
 ## Temática
 
 ### Sitio
 
-SITENAME es un e-commerce destinado a la venta de vehículos. Se enfoca en brindar una experiencia agradable y fluida para poder encontrar **tu vehículo ideal, al mejor precio**.
-SITENAME también cuenta con una sección de repuestos para que así puedas encontrar todo lo relacionado a tu nuevo y/o actual vehículo en un mismo lugar.
+Real Cars es un e-commerce destinado a la venta de vehículos. Se enfoca en brindar una experiencia agradable y fluida para poder encontrar **tu vehículo ideal, al mejor precio**.
+Real Cars también cuenta con una sección de repuestos para que así puedas encontrar todo lo relacionado a tu nuevo y/o actual vehículo en un mismo lugar.
 
 ### Equipo
 
@@ -19,8 +19,8 @@ Para el desarrollo de este nuevo e-commerce, se cuenta con un equipo de tres mar
 
 - [Mercado Libre](https://www.mercadolibre.com.ar) - Mayor e-commerce de América Latina, cuenta con una gran variedad de categorías de todo tipo incluyendo vehículos y repuestos. Ponen mucho enfasis en UX y es un beun fuente para ver los cambio sentre mobile y full screen.
 - [Amazon](https://www.amazon.com) - Mayor e-commerce a nivel global.
-- [DEAutos](https://www.deautos.com) - Uno de los clásicos sitios donde buscar autos en línea. Sitio de referencia especializado en venta de vehículos.
+- [DeAutos](https://www.deautos.com) - Uno de los clásicos sitios donde buscar autos en línea. Sitio de referencia especializado en venta de vehículos.
 - [Semi Nuevos](https://www.seminuevos.com) - Para observar marketplace internacional para ver si hay ideas no presentes en el mercado local.
 - [Car Sales](https://www.carsales.com.au) - Car Sales pertenece a uno de los mayores grupos a nivel mundial en cuanto a marketplace de autos/vehiculos y tambien es para tener otros ideas.
 - [Kavak](https://www.kavak.com/ar) - Para ver el flujo de compra/venta/cotización online y como realiza la integración con mercadolibre/Mercado Pago.
-- [Autocity] (https://autocity.com.ar/) - Tienen una ficha de producto comodo que es responsive.
+- [Autocity](https://autocity.com.ar/) - Tienen una ficha de producto comodo que es responsive.
