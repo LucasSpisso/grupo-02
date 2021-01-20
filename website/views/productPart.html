@@ -3,9 +3,139 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Roboto" rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="/css/productStyles.css">
+    
+    <title>Real Cars</title>
 </head>
 <body>
-    
+    <header class="placeholder navbar">
+        Header placeholder
+    </header>
+    <main>
+        <section>
+            <div id="productPhotoCarousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <li data-target="#productPhotoCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#productPhotoCarousel" data-slide-to="1"></li>
+                  <li data-target="#productPhotoCarousel" data-slide-to="2"></li>
+                </ol>
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="https://http2.mlstatic.com/D_NQ_NP_898458-MLA43987588875_112020-O.webp" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://http2.mlstatic.com/D_NQ_NP_781901-MLA43987646141_112020-O.webp" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://http2.mlstatic.com/D_NQ_NP_813705-MLA43987593828_112020-O.webp" class="d-block w-100" alt="...">
+                  </div>
+                </div>
+                <a class="carousel-control-prev" href="#productPhotoCarousel" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#productPhotoCarousel" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+              <div id="mainDetails">
+                <h2 class="price">$ 4.490.000</h2>
+                <p class="date">Publicado el 16/1/2021</p>
+                <h2 class="title">Led Giro De Espejo Kia Sorento 2009/2014</h2>
+                <p class="product-state">Nuevo</p>
+                <div class="rating-container">
+                    <p id="rating">Rating</p>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <div class="buttons-container">
+                    <button type="button" class="btn btn-primary">Comprar</button>
+                    <button type="button" class="btn btn-secondary">Preguntar</button>
+                    <button type="button" class="btn btn-danger"><i class="fas fa-cart-plus"></i></button>
+                    <button type="button" class="btn btn-success"><i class="fas fa-share-alt"></i> Compartir</button>
+                    <i class="far fa-heart"></i>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div id="characteristics">
+                <h2>Características</h2>
+                <table id="attributesTable">
+                    <tr>
+                        <td>
+                            Marca
+                        </td>
+                        <td>
+                            Modelo
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Número de parte
+                        </td>
+                        <td>
+                            Marca del auto
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Modelo del auto
+                        </td>
+                        <td>
+                            Versión del auto
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Año inicio auto
+                        </td>
+                        <td>
+                            Año fin auto
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="description">
+                <h2>Descripción</h2>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus, maiores? Nemo sit consequuntur quos necessitatibus eos assumenda libero nam distinctio error, sunt harum ullam doloremque ipsa eum recusandae tenetur velit.
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus, maiores? Nemo sit consequuntur quos necessitatibus eos assumenda libero nam distinctio error, sunt harum ullam doloremque ipsa eum recusandae tenetur velit.
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus, maiores? Nemo sit consequuntur quos necessitatibus eos assumenda libero nam distinctio error, sunt harum ullam doloremque ipsa eum recusandae tenetur velit.
+                </p>
+            </div>
+            
+        </section>
+        <section>
+            comprar
+        </section>
+        <section>
+            caracteristicas
+        </section>
+        <section>
+            descripción
+        </section>
+        <section>
+            preguntas
+        </section>
+        <section>
+            comprar
+        </section>
+
+    </main>
+    <footer class="placeholder">
+        Footer placeholder
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </body>
 </html>
