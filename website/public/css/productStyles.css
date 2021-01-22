@@ -105,7 +105,8 @@ h2 {
 
 #characteristics,
 #description,
-#questions {
+#questions,
+#dataSheet {
   background-color: white;
   margin-top: 10px;
   padding: 0 10px;
@@ -120,6 +121,22 @@ h2 {
   width: 80%;
   margin: auto;
   text-align: center;
+}
+
+#dataSheet {
+  display: flex;
+  flex-direction: column;
+}
+
+#dataSheet a {
+  text-decoration: none;
+  color: black;
+  display: flex;
+  align-items: center;
+}
+
+#dataSheet i {
+  margin-left: 5px;
 }
 
 #question-form {
